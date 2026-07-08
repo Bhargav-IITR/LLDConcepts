@@ -1,6 +1,6 @@
 # LLD Concepts
 
-This repository contains Java implementations of low-level design examples, common design patterns, and interview-style machine coding problems.
+This repository contains Java implementations of low-level design examples, common design patterns, and machine coding problems.
 
 ## Tech Stack
 
